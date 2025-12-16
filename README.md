@@ -44,7 +44,7 @@
 
 | 辩论赛 | 拔河比赛 | 张家界 | 聚餐 |
 | :---: | :---: | :---: | :---: |
-| <img src="04_社团与活动/debating/cover.jpg" height="200"> | <img src="04_社团与活动/TugOfwar/cover.jpg" height="200"> | <img src="04_社团与活动/Zhangjiajie/cover.jpg" height="200"> | <img src="04_社团与活动/dinning/drunk01.jpg" height="200"> |
+| <img src="04_社团与活动/debating/cover.jpg" height="200"> | <img src="04_社团与活动/TugOfwar/cover.jpg" height="200"> | <img src="04_社团与活动/Zhangjiajie/cover.jpg" height="200"> | <img src="04_社团与活动/Dinning/drunk01.jpg" height="200"> |
 
 
 ### 📂 [05. 毕业季](./05_毕业)
