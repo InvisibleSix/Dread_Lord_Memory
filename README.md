@@ -34,7 +34,7 @@
 
 | 上课 | 上机 | 考试 |
 | :---: | :---: | :---: |
-| ![上课](03_课程与学习/coverstudy.jpg) |![上机](03_课程与学习/computer/cover.jpg) | ![考试](03_课程与学习/coverexam.jpg) |
+| <img src="03_课程与学习/coverstudy.jpg" height="200"> | <img src="03_课程与学习/computer/cover.jpg" height="200"> | <img src="03_课程与学习/coverexam.jpg" height="200"> |
 
 ### 📂 [04. 社团与活动](./04_社团与活动)
 > **辩论赛:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;你干啥都是温温吞吞的，搞辩论确实散发了另一个性格，要是放现在你就是KOL啊。<br>
@@ -44,7 +44,7 @@
 
 | 辩论赛 | 拔河比赛 | 张家界 | 聚餐 |
 | :---: | :---: | :---: | :---: |
-| ![辩论](04_社团与活动/debating/cover.jpg) | ![拔河](04_社团与活动/TugOfwar/cover.jpg) | ![张家界](04_社团与活动/Zhangjiajie/cover.jpg) | ![聚餐](04_社团与活动/Zhangjiajie/cover.jpg) |
+| <img src="04_社团与活动/debating/cover.jpg" height="200"> | <img src="04_社团与活动/TugOfwar/cover.jpg" height="200"> | <img src="04_社团与活动/Zhangjiajie/cover.jpg" height="200"> | <img src="04_社团与活动/dinning/drunk01.jpg" height="200"> |
 
 
 ### 📂 [05. 毕业季](./05_毕业)
