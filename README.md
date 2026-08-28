@@ -11,7 +11,7 @@
 * **ID:** 沈賾/Dread Lord
 * **班级:** 计科六班 (CS Class 6)
 * **寝室:** 8-321
-* **位置:** 好室友/SLG重度爱好者/Good Person/最佳辩手/<br>
+* **位置:** 好室友/SLG重度爱好者/Good Person/最佳辩手/头发很油哈哈哈<br>
 <img src="06_工作与生活/beijing/beijing04.jpg" height="500">
 ---
 
